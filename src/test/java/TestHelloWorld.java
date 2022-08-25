@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by LaunchCode
  */
-public class TestHelloWorld {a
+public class TestHelloWorld {
 
     @Test
     public void testSayHello() {
